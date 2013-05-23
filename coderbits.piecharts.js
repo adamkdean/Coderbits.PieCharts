@@ -101,7 +101,7 @@ window.onload = function () {
             keys[3] = prefix_array(top_tools[0], ' %%');
             vals[3] = top_tools[1];
 
-            element.innerHTML = '';
+            element.innerHTML = "";
             drawPieCharts(global, labels, keys, vals);
 
             delete window[global];
