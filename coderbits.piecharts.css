@@ -1,2 +1,2 @@
-.coderbits { width: 750px; }
-.coderbits .loading_gif { width: 750px; text-align: center; padding-top: 145px; }
+#coderbits { width: 750px; text-align: center; }
+#coderbits img { margin-top: 145px; }
